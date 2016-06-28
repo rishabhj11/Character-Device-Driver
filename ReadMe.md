@@ -30,6 +30,6 @@ getting added after each input.
 # Test Results:
 Written – abcdefghij
 1. REGULAR
-   * read – abcdefghij
+* read – abcdefghij
 2. REVERSE
-   * read - jihgfedcba
+* read - jihgfedcba
